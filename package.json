@@ -12,14 +12,13 @@
   "license": "ISC",
   "dependencies": {
     "amqplib": "^0.5.2",
-    "debug": "^3.1.0"
+    "debug": "^3.1.0",
+    "babel-cli": "^6.26.0",
+    "babel-preset-latest": "^6.24.1",
+    "babel-preset-stage-0": "^6.24.1"
   },
   "devDependencies": {
-    "babel-cli": "^6.26.0",
     "babel-eslint": "^7.1.0",
-    "babel-polyfill": "^6.9.1",
-    "babel-preset-latest": "^6.24.1",
-    "babel-preset-stage-0": "^6.24.1",
     "eslint": "^3.10.1",
     "eslint-config-standard": "^5.2.0",
     "eslint-plugin-babel": "^3.2.0",
