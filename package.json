@@ -9,7 +9,7 @@
     "prepublish": "babel -o ./index.js ./lib/wrapper.js "
   },
   "author": "Sendit",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "amqplib": "^0.5.2",
     "babel-cli": "^6.26.0",
